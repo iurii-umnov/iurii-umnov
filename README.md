@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Iurii Umnov 👋</h1>
 <h3 align="center">Enthusiastic Data Scientist and Backend Developer</h3>
 
-- 📫 How to reach me **[@umnov_yua](https://t.me/umnov_yua)** or **umnov.yua@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/iurii-umnov/](https://www.linkedin.com/in/iurii-umnov/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/iurii-umnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iurii-umnov" height="30" width="40" /></a>
